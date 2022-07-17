@@ -15,7 +15,7 @@
 
 In a magic square, the sum of any column, row or diagonal is exactly the same and in our case the sum is 15. With the use of propositional logic, python code alongside a simple visualization, a program which finds one of the many solutions to this problem was created.  
 
-#### Technologies
+#### Languages & Technologies
 
 - Python
 
